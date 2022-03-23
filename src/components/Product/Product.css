@@ -3,6 +3,7 @@
     height: 510px;
     border: 1px solid #95A0A7;
     position: relative;
+    border-radius: 8px;
     
 }
 .product-info{
